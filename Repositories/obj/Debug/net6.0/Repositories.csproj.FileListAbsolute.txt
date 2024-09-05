@@ -1,0 +1,17 @@
+C:\WorkingCopies\cps430_project\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\WorkingCopies\cps430_project\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\WorkingCopies\cps430_project\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\WorkingCopies\cps430_project\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\WorkingCopies\cps430_project\Repositories\bin\Debug\net6.0\Models.dll
+C:\WorkingCopies\cps430_project\Repositories\bin\Debug\net6.0\Models.pdb
+C:\WorkingCopies\cps430_project\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\WorkingCopies\cps430_project\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkingCopies\cps430_project\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\WorkingCopies\cps430_project\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\WorkingCopies\cps430_project\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\WorkingCopies\cps430_project\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+C:\WorkingCopies\cps430_project\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\WorkingCopies\cps430_project\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\WorkingCopies\cps430_project\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\WorkingCopies\cps430_project\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\WorkingCopies\cps430_project\Repositories\obj\Debug\net6.0\ref\Repositories.dll
